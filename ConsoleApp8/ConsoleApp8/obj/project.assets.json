@@ -1,0 +1,220 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.6.1": {
+      "altcover/5.3.675": {
+        "type": "package",
+        "build": {
+          "build/netstandard2.0/AltCover.props": {},
+          "build/netstandard2.0/AltCover.targets": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.6.1/win": {
+      "altcover/5.3.675": {
+        "type": "package",
+        "build": {
+          "build/netstandard2.0/AltCover.props": {},
+          "build/netstandard2.0/AltCover.targets": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.6.1/win-x64": {
+      "altcover/5.3.675": {
+        "type": "package",
+        "build": {
+          "build/netstandard2.0/AltCover.props": {},
+          "build/netstandard2.0/AltCover.targets": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.6.1/win-x86": {
+      "altcover/5.3.675": {
+        "type": "package",
+        "build": {
+          "build/netstandard2.0/AltCover.props": {},
+          "build/netstandard2.0/AltCover.targets": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "altcover/5.3.675": {
+      "sha512": "y48gTcHqtIWNtNXL2O8O2qCvJqAbojGgmSQW3nCyWWUkNO1kdmTTY0paFOxbeJJ66xBEPxRPozxJ66viF4Bsgg==",
+      "type": "package",
+      "path": "altcover/5.3.675",
+      "files": [
+        ".signature.p7s",
+        "README.html",
+        "altcover.5.3.675.nupkg.sha512",
+        "altcover.nuspec",
+        "build/netstandard2.0/AltCover.props",
+        "build/netstandard2.0/AltCover.targets",
+        "tools/net45/AltCover.FSApi.dll",
+        "tools/net45/AltCover.PowerShell.dll",
+        "tools/net45/AltCover.Recorder.dll",
+        "tools/net45/AltCover.Visualizer.exe",
+        "tools/net45/AltCover.exe",
+        "tools/net45/BlackFox.CommandLine.dll",
+        "tools/net45/FSharp.Core.dll",
+        "tools/net45/Mono.Cecil.Mdb.dll",
+        "tools/net45/Mono.Cecil.Pdb.dll",
+        "tools/net45/Mono.Cecil.Rocks.dll",
+        "tools/net45/Mono.Cecil.dll",
+        "tools/net45/Mono.Options.dll",
+        "tools/net45/Newtonsoft.Json.dll",
+        "tools/net45/cs/FSharp.Core.resources.dll",
+        "tools/net45/de/FSharp.Core.resources.dll",
+        "tools/net45/en/FSharp.Core.resources.dll",
+        "tools/net45/eo/AltCover.Visualizer.resources.dll",
+        "tools/net45/eo/AltCover.resources.dll",
+        "tools/net45/es/FSharp.Core.resources.dll",
+        "tools/net45/fr/FSharp.Core.resources.dll",
+        "tools/net45/it/FSharp.Core.resources.dll",
+        "tools/net45/ja/FSharp.Core.resources.dll",
+        "tools/net45/ko/FSharp.Core.resources.dll",
+        "tools/net45/pl/FSharp.Core.resources.dll",
+        "tools/net45/pt-BR/FSharp.Core.resources.dll",
+        "tools/net45/ru/FSharp.Core.resources.dll",
+        "tools/net45/tr/FSharp.Core.resources.dll",
+        "tools/net45/zh-Hans/FSharp.Core.resources.dll",
+        "tools/net45/zh-Hant/FSharp.Core.resources.dll",
+        "tools/netcoreapp2.0/AltCover.DataCollector.deps.json",
+        "tools/netcoreapp2.0/AltCover.DataCollector.dll",
+        "tools/netcoreapp2.0/AltCover.DataCollector.pdb",
+        "tools/netcoreapp2.0/AltCover.FSApi.deps.json",
+        "tools/netcoreapp2.0/AltCover.FSApi.dll",
+        "tools/netcoreapp2.0/AltCover.FSApi.pdb",
+        "tools/netcoreapp2.0/AltCover.PowerShell.deps.json",
+        "tools/netcoreapp2.0/AltCover.PowerShell.dll",
+        "tools/netcoreapp2.0/AltCover.PowerShell.pdb",
+        "tools/netcoreapp2.0/AltCover.Recorder.dll",
+        "tools/netcoreapp2.0/AltCover.Recorder.pdb",
+        "tools/netcoreapp2.0/AltCover.deps.json",
+        "tools/netcoreapp2.0/AltCover.dll",
+        "tools/netcoreapp2.0/AltCover.pdb",
+        "tools/netcoreapp2.0/AltCover.runtimeconfig.json",
+        "tools/netcoreapp2.0/BlackFox.CommandLine.dll",
+        "tools/netcoreapp2.0/FSharp.Core.dll",
+        "tools/netcoreapp2.0/Microsoft.Build.Framework.dll",
+        "tools/netcoreapp2.0/Microsoft.Build.Utilities.Core.dll",
+        "tools/netcoreapp2.0/Mono.Cecil.Mdb.dll",
+        "tools/netcoreapp2.0/Mono.Cecil.Pdb.dll",
+        "tools/netcoreapp2.0/Mono.Cecil.Rocks.dll",
+        "tools/netcoreapp2.0/Mono.Cecil.dll",
+        "tools/netcoreapp2.0/Mono.Options.dll",
+        "tools/netcoreapp2.0/Newtonsoft.Json.dll",
+        "tools/netcoreapp2.0/System.Collections.Immutable.dll",
+        "tools/netcoreapp2.0/System.Security.AccessControl.dll",
+        "tools/netcoreapp2.0/System.Security.Permissions.dll",
+        "tools/netcoreapp2.0/System.Security.Principal.Windows.dll",
+        "tools/netcoreapp2.0/cs/FSharp.Core.resources.dll",
+        "tools/netcoreapp2.0/de/FSharp.Core.resources.dll",
+        "tools/netcoreapp2.0/en/FSharp.Core.resources.dll",
+        "tools/netcoreapp2.0/eo/AltCover.resources.dll",
+        "tools/netcoreapp2.0/es/FSharp.Core.resources.dll",
+        "tools/netcoreapp2.0/fr/FSharp.Core.resources.dll",
+        "tools/netcoreapp2.0/it/FSharp.Core.resources.dll",
+        "tools/netcoreapp2.0/ja/FSharp.Core.resources.dll",
+        "tools/netcoreapp2.0/ko/FSharp.Core.resources.dll",
+        "tools/netcoreapp2.0/pl/FSharp.Core.resources.dll",
+        "tools/netcoreapp2.0/pt-BR/FSharp.Core.resources.dll",
+        "tools/netcoreapp2.0/ru/FSharp.Core.resources.dll",
+        "tools/netcoreapp2.0/runtimes/unix/lib/netcoreapp2.0/System.Security.Principal.Windows.dll",
+        "tools/netcoreapp2.0/runtimes/unix/lib/netstandard1.3/System.Text.Encoding.CodePages.dll",
+        "tools/netcoreapp2.0/runtimes/win/lib/netcoreapp2.0/System.Security.AccessControl.dll",
+        "tools/netcoreapp2.0/runtimes/win/lib/netcoreapp2.0/System.Security.Principal.Windows.dll",
+        "tools/netcoreapp2.0/runtimes/win/lib/netstandard1.3/System.Text.Encoding.CodePages.dll",
+        "tools/netcoreapp2.0/tr/FSharp.Core.resources.dll",
+        "tools/netcoreapp2.0/zh-Hans/FSharp.Core.resources.dll",
+        "tools/netcoreapp2.0/zh-Hant/FSharp.Core.resources.dll",
+        "tools/netcoreapp2.1/AltCover.Visualizer.deps.json",
+        "tools/netcoreapp2.1/AltCover.Visualizer.dll",
+        "tools/netcoreapp2.1/AltCover.Visualizer.pdb",
+        "tools/netcoreapp2.1/AltCover.Visualizer.runtimeconfig.json",
+        "tools/netcoreapp2.1/AtkSharp.dll",
+        "tools/netcoreapp2.1/CairoSharp.dll",
+        "tools/netcoreapp2.1/DotnetToolSettings.xml",
+        "tools/netcoreapp2.1/FSharp.Core.dll",
+        "tools/netcoreapp2.1/GLibSharp.dll",
+        "tools/netcoreapp2.1/GdkSharp.dll",
+        "tools/netcoreapp2.1/GioSharp.dll",
+        "tools/netcoreapp2.1/GtkSharp.dll",
+        "tools/netcoreapp2.1/Mono.Options.dll",
+        "tools/netcoreapp2.1/PangoSharp.dll",
+        "tools/netcoreapp2.1/cs/FSharp.Core.resources.dll",
+        "tools/netcoreapp2.1/de/FSharp.Core.resources.dll",
+        "tools/netcoreapp2.1/en/FSharp.Core.resources.dll",
+        "tools/netcoreapp2.1/eo/AltCover.Visualizer.resources.dll",
+        "tools/netcoreapp2.1/es/FSharp.Core.resources.dll",
+        "tools/netcoreapp2.1/fr/FSharp.Core.resources.dll",
+        "tools/netcoreapp2.1/it/FSharp.Core.resources.dll",
+        "tools/netcoreapp2.1/ja/FSharp.Core.resources.dll",
+        "tools/netcoreapp2.1/ko/FSharp.Core.resources.dll",
+        "tools/netcoreapp2.1/pl/FSharp.Core.resources.dll",
+        "tools/netcoreapp2.1/pt-BR/FSharp.Core.resources.dll",
+        "tools/netcoreapp2.1/ru/FSharp.Core.resources.dll",
+        "tools/netcoreapp2.1/tr/FSharp.Core.resources.dll",
+        "tools/netcoreapp2.1/zh-Hans/FSharp.Core.resources.dll",
+        "tools/netcoreapp2.1/zh-Hant/FSharp.Core.resources.dll"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.6.1": [
+      "altcover >= 5.3.675"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\atga3626\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "U:\\source\\repos\\ConsoleApp8\\ConsoleApp8\\ConsoleApp8.csproj",
+      "projectName": "ConsoleApp8",
+      "projectPath": "U:\\source\\repos\\ConsoleApp8\\ConsoleApp8\\ConsoleApp8.csproj",
+      "packagesPath": "C:\\Users\\atga3626\\.nuget\\packages\\",
+      "outputPath": "U:\\source\\repos\\ConsoleApp8\\ConsoleApp8\\obj\\",
+      "projectStyle": "PackageReference",
+      "skipContentFileWrite": true,
+      "configFilePaths": [
+        "u:\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net461"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net461": {
+          "projectReferences": {}
+        }
+      }
+    },
+    "frameworks": {
+      "net461": {
+        "dependencies": {
+          "altcover": {
+            "target": "Package",
+            "version": "[5.3.675, )"
+          }
+        }
+      }
+    },
+    "runtimes": {
+      "win": {
+        "#import": []
+      },
+      "win-x64": {
+        "#import": []
+      },
+      "win-x86": {
+        "#import": []
+      }
+    }
+  }
+}

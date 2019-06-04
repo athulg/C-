@@ -1,0 +1,16 @@
+U:\source\repos\ConsoleApp8\UnitTest\obj\Debug\UnitTest.csprojAssemblyReference.cache
+U:\source\repos\ConsoleApp8\UnitTest\obj\Debug\UnitTest.csproj.CoreCompileInputs.cache
+U:\source\repos\ConsoleApp8\UnitTest\bin\Debug\UnitTest.dll
+U:\source\repos\ConsoleApp8\UnitTest\bin\Debug\UnitTest.pdb
+U:\source\repos\ConsoleApp8\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+U:\source\repos\ConsoleApp8\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+U:\source\repos\ConsoleApp8\UnitTest\bin\Debug\ConsoleApp8.exe
+U:\source\repos\ConsoleApp8\UnitTest\bin\Debug\ConsoleApp8.pdb
+U:\source\repos\ConsoleApp8\UnitTest\bin\Debug\ConsoleApp8.exe.config
+U:\source\repos\ConsoleApp8\UnitTest\obj\Debug\UnitTest.csproj.CopyComplete
+U:\source\repos\ConsoleApp8\UnitTest\obj\Debug\UnitTest.dll
+U:\source\repos\ConsoleApp8\UnitTest\obj\Debug\UnitTest.pdb
+U:\source\repos\ConsoleApp8\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+U:\source\repos\ConsoleApp8\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+U:\source\repos\ConsoleApp8\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+U:\source\repos\ConsoleApp8\UnitTest\bin\Debug\Microsoft.VisualStudio.CodeCoverage.Shim.dll
